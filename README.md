@@ -1,12 +1,20 @@
-# Aufgezeichnete Vorlesungen
+# SE1
 
-## SE1 Vorlesung
+📥 https://adoptium.net (Java)
 
-https://lecture2go.uni-hamburg.de/l2go/-/get/v/18368
+📥 https://github.com/fredoverflow/karel (Woche 1-2)
 
-## SE2 Vorlesung
+📥 https://www.bluej.org (Woche 3-13)
 
-https://lecture2go.uni-hamburg.de/l2go/-/get/v/19132
+📺 https://lecture2go.uni-hamburg.de/l2go/-/get/v/18368 (Vorlesung)
+
+# SE2
+
+📥 https://adoptium.net
+
+📥 https://www.eclipse.org/downloads/packages
+
+📺 https://lecture2go.uni-hamburg.de/l2go/-/get/v/19132 
 
 Die ersten Videos haben leider keine gute Qualität, Freds Teil ist auf YouTube besser lesbar:
 
